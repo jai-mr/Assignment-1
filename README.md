@@ -1,3 +1,10 @@
+##  Assignment 1 - Jaideep R
+##  Files : 
+- README.md (Representing a brief points captured in session)
+- Assignment-1.md (Representing the answers to the questions asked in assignment)
+- Python101.ipynb (Representing the solution to the quiz)
+
+
 ## Session 1 - Background & Basics:Machine Learning Intuition
 
 ### Links
